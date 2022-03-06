@@ -1,7 +1,15 @@
-hidden {
-  display: none;  
+html {
+  background-color: black;
 }
 
 h1, h2, h3, h4, h5, h6, p {
-  text-align: left;
+  color: white;
+}
+
+.hidden {
+  display: none;  
+}
+
+.center {
+  text-align: center;
 }
